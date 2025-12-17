@@ -146,17 +146,25 @@ public class Pupuk extends Produk {
 ---
 
 ## Kesimpulan
-(Tuliskan kesimpulan dari praktikum minggu ini.  
-Contoh: *Dengan menggunakan class dan object, program menjadi lebih terstruktur dan mudah dikembangkan.*)
+Berdasarkan hasil praktikum yang telah dilakukan, dapat disimpulkan bahwa konsep inheritance dalam pemrograman berorientasi objek berhasil diterapkan dengan baik menggunakan bahasa Java. Melalui pembuatan superclass Produk dan subclass Benih, Pupuk, serta AlatPertanian, mahasiswa dapat memahami hubungan pewarisan antar class serta penggunaan keyword extends dan super.
+
+Penerapan inheritance terbukti mampu mengurangi duplikasi kode, membuat struktur program lebih terorganisir, serta mempermudah pengembangan dan pemeliharaan sistem, khususnya pada aplikasi POS pertanian. Selain itu, hasil eksekusi program menunjukkan bahwa objek dari masing-masing subclass dapat berjalan dengan baik dan menampilkan data sesuai dengan rancangan class yang dibuat.
+
+Dengan demikian, praktikum ini berhasil mencapai tujuan pembelajaran dan memberikan pemahaman yang lebih baik mengenai penerapan inheritance dalam pengembangan aplikasi berbasis OOP.
 
 ---
 
 ## Quiz
-(1. [Tuliskan kembali pertanyaan 1 dari panduan]  
-   **Jawaban:** …  
+1. Apa keuntungan menggunakan inheritance dibanding membuat class terpisah tanpa hubungan?
+Jawaban:Inheritance memungkinkan penggunaan kembali atribut dan method dari class induk sehingga mengurangi duplikasi kode, membuat program lebih terstruktur, mudah dikembangkan, dan lebih mudah dipelihara dibandingkan membuat class terpisah tanpa hubungan.
 
-2. [Tuliskan kembali pertanyaan 2 dari panduan]  
-   **Jawaban:** …  
+2. Bagaimana cara subclass memanggil konstruktor superclass?
+Jawaban:Subclass memanggil konstruktor superclass menggunakan keyword super di dalam konstruktor subclass.
+Contoh:
+super(kode, nama, harga, stok);
 
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
+3. Berikan contoh kasus di POS pertanian selain Benih, Pupuk, dan Alat Pertanian yang bisa dijadikan subclass.
+Jawaban: Contoh subclass lain dalam POS pertanian antara lain:
+- Pestisida (atribut tambahan: jenis hama, tingkat toksisitas)
+- Obat Tanaman (atribut tambahan: fungsi dan dosis)
+- Pakan Ternak (atribut tambahan: kandungan nutrisi dan jenis ternak)
