@@ -1,4 +1,4 @@
-# Laporan Praktikum Minggu 4 (sesuaikan minggu ke berapa?)
+# Laporan Praktikum Minggu 4
 Topik: polymorphism
 
 ## Identitas
