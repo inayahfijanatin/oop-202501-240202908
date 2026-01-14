@@ -11,7 +11,6 @@ Topik: UML dan Prinsip Solid
 ## Tujuan
 (Tuliskan tujuan praktikum minggu ini.) 
 Tujuan dari praktikum ini adalah agar mahasiswa mampu memahami dan menerapkan Unified Modeling Language (UML) dalam perancangan sistem serta memahami penerapan prinsip SOLID pada desain perangkat lunak berorientasi objek agar sistem yang dibangun menjadi terstruktur, mudah dikembangkan, dan mudah dipelihara.
----
 
 ## Dasar Teori
 1. UML (Unified Modeling Language) adalah bahasa pemodelan standar untuk memvisualisasikan, merancang, dan mendokumentasikan sistem perangkat lunak.
@@ -65,6 +64,3 @@ Single Responsibility Principle (SRP) menyatakan bahwa satu class hanya boleh me
 3. Mengapa interface penting dalam penerapan SOLID?
 Jawaban:
 Interface penting karena memungkinkan sistem bergantung pada abstraksi, bukan implementasi konkret, sehingga memudahkan pengembangan dan perubahan fitur tanpa merusak kode yang sudah ada.
-
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
