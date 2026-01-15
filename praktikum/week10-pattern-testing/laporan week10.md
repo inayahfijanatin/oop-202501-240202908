@@ -170,5 +170,3 @@ Jawaban: Memastikan fungsi berjalan sesuai harapan dan mencegah bug.
 
 4. Apa risiko Singleton yang salah implementasi?
 Jawaban: Dapat menyebabkan lebih dari satu instance dan konflik data.
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
