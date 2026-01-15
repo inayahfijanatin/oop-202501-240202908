@@ -76,5 +76,3 @@ Jawaban:
   - Read: membaca data
   - Update: memperbarui data
   - Delete: menghapus data
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
