@@ -88,7 +88,6 @@ Jawaban: Event-driven programming adalah paradigma pemrograman di mana alur prog
 2. Mengapa GUI tidak boleh langsung mengakses DAO?
 Jawaban: Agar tetap mengikuti prinsip MVC dan SOLID, sehingga tampilan tidak bergantung langsung pada akses database.
 
-3. Class apa yang berfungsi sebagai penghubung antara GUI dan backend?
+4. Class apa yang berfungsi sebagai penghubung antara GUI dan backend?
 Jawaban: ProductController.
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
+
