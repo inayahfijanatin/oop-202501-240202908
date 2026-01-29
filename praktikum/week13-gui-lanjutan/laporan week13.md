@@ -1,25 +1,23 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+# Laporan Praktikum Minggu 13
+Topik: GUI Lanjutan
 
 ## Identitas
-- Nama  : [Nama Mahasiswa]
-- NIM   : [NIM Mahasiswa]
-- Kelas : [Kelas]
+- Nama  : Inayah Fijanatin
+- NIM   : 240202908
+- Kelas : 3IKKA
 
 ---
 
 ## Tujuan
-(Tuliskan tujuan praktikum minggu ini.  
-Contoh: *Mahasiswa memahami konsep class dan object serta dapat membuat class Produk dengan enkapsulasi.*)
-
+Mahasiswa memahami konsep GUI lanjutan dengan JavaFX TableView dan Lambda Expression, serta mampu mengintegrasikan GUI dengan DAO melalui service layer untuk membangun aplikasi Agri-POS yang interaktif.
 ---
 
 ## Dasar Teori
-(Tuliskan ringkasan teori singkat (3–5 poin) yang mendasari praktikum.  
-Contoh:  
-1. Class adalah blueprint dari objek.  
-2. Object adalah instansiasi dari class.  
-3. Enkapsulasi digunakan untuk menyembunyikan data.)
+1. TableView JavaFX adalah komponen untuk menampilkan data dalam format tabel dengan kolom dan baris, mendukung pengurutan, filter, dan seleksi baris.
+2. ObservableList adalah koleksi khusus JavaFX yang dapat diamati, memungkinkan UI otomatis terupdate ketika data berubah.
+3. Lambda Expression adalah fitur Java 8+ untuk menyederhanakan penulisan kode, terutama untuk event handling dan functional interfaces.
+4. PropertyValueFactory digunakan untuk memetakan property objek ke kolom TableView secara otomatis.
+5. MVC Pattern diterapkan dengan memisahkan View (JavaFX), Controller (business logic), dan Model (data classes).
 
 ---
 
